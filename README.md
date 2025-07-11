@@ -64,7 +64,7 @@ I thrive in collaborative environments and am constantly expanding my skills in 
 | Method       | Link                                                                 |
 |--------------|----------------------------------------------------------------------|
 | 📧 Email      | [adnanrh123@gmail.com](mailto:adnanrh123@gmail.com)                 |
-| 🔗 LinkedIn   | [linkedin.com/in/adnanrahmantushar]([https://linkedin.com/in/adnanrahmantushar](https://www.linkedin.com/in/adnan-rahman-ba9972284/)) |
+| 🔗 LinkedIn   | [linkedin.com/in/adnanrahmantushar](https://www.linkedin.com/in/adnan-rahman-ba9972284/) |
 | 💻 GitHub     | [github.com/adnanrahman99](https://github.com/adnanrh1)         |
 | 🎨 Dribbble   | [dribbble.com/adnanrh_1](https://dribbble.com/adnanrh_1)             |
 | 👍 Facebook   | [facebook.com/iamadnan008](https://www.facebook.com/iamadnan008)     |
