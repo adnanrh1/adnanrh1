@@ -29,7 +29,7 @@ I thrive in collaborative environments and am constantly expanding my skills in 
 - Responsive Testing
 
 ### 🛠 Tools & Technologies
-- Jira, Trello (Issue Tracking)
+- Jira (Issue Tracking)
 - TestRail (Test Management)
 - Postman (API Testing)
 - GitHub (Version Control)
@@ -37,10 +37,10 @@ I thrive in collaborative environments and am constantly expanding my skills in 
 - Figma (UI/UX Design)
 
 ### 🎨 UI/UX Design
-- Wireframing & Prototyping (Figma)
-- User Flow & Journey Mapping
-- Heuristic Evaluation
-- Accessibility Testing
+- User Interface (UI) Design
+- User Experience (UX) Design
+- Design System, Wireframing & Prototyping
+- Usability Testing & Research
 
 ---
 
@@ -73,8 +73,8 @@ I thrive in collaborative environments and am constantly expanding my skills in 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanrahman99&show_icons=true&theme=default" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrahman99&layout=compact&theme=default" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanrh1&show_icons=true&theme=default" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrh1&layout=compact&theme=default" alt="Top Languages" width="300" />
 </div>
 
 ---
